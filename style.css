@@ -184,3 +184,16 @@ footer{
     display: none;
   }
 }
+@media screen and (max-width: 600px) {
+  .image{
+  display: block;
+  width: 400px;
+  height: 400px;
+  }
+  
+  .overlay{
+     width: 400px;
+  height: 400px;
+  }
+}
+    
