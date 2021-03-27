@@ -107,7 +107,7 @@ footer{
   justify-content: space-around;
   }
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1000px) {
   /* Style the navigation menu */
   .topnav {
     overflow: hidden;
@@ -157,7 +157,7 @@ footer{
     margin-top: 120px;
   }
 }
-@media screen and (min-width: 1400px) {
+@media screen and (min-width: 1000px) {
 
   .topnav{
     display: flex;
