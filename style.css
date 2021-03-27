@@ -62,8 +62,8 @@ img{
   bottom: 0;
   left: 0;
   right: 0;
-  width: 500px;
-  height: 500px;
+  width: 560px;
+  height: 560px;
   opacity: 0.5;
   transition: .5s ease;
   background-color: #009999;
@@ -185,4 +185,9 @@ footer{
   }
 }
 
-    
+@media screen and (max-width: 600px) {
+  .overlay{
+    height:385px;
+    width:385px;
+  }
+}
